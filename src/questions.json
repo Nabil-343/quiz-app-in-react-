@@ -1,0 +1,54 @@
+[
+{
+    "id":1,
+    "statement": "1. What is a shallow copy in JavaScript?",
+    "options": [
+        "1. It duplicates nested objects and arrays recursively.",
+        "2. It only copies the references of nested objects and arrays.",
+        "3. It creates a completely independent copy of the original object.",
+        "4. It doesn't copy anything, it merely creates a reference to the original object."
+
+    ],
+    "correctOptionIndex":1    
+},
+
+{
+    "id":2,
+    "statement": "2. What is the result of concatenating two arrays in JavaScript using the concat() method?",
+    "options": [
+        "1.  The original arrays are modified",
+        "2.  A new array is created with elements from both arrays.",
+        "3.  Elements from the second array are added to the end of the first array.",
+        "4.  Elements from the first array are added to the end of the second array."
+
+    ],
+    "correctOptionIndex":1  
+},
+
+{
+    "id":3,
+    "statement": "3. How can you check if a variable is an array in JavaScript?",
+    "options": [
+        "1. Using the typeof operator.",
+        "2. Comparing it to the Array class.",
+        "3. Using the isArray( ) method of the Array class.",
+        "4. All of the above."
+
+    ],
+    "correctOptionIndex":2  
+}, 
+{
+    "id":4,
+    "statement": "4. Which method can be used to add elements to the end of an array in JavaScript?",
+    "options": [
+        "1. shift( ).",
+        "2. unshift( )",
+        "3. pop( )",
+        "4. push( )"
+
+    ],
+    "correctOptionIndex":3  
+}
+
+]
+
